@@ -1,0 +1,48 @@
+body
+{
+	background-image: url(../images/1.jpg);
+	background-size: 100% auto;
+	font-family:arial;
+}
+
+
+*{
+	margin:0px;
+	padding:0px;
+}
+
+.upper{
+    margin: 0px;
+    padding: 20px;
+}
+.left{
+    margin: 0px;
+    padding: 0px;
+}
+h2{
+	color: cornsilk;
+	transform:translate( 1%, 50%);
+	font-size: xx-large;
+}
+
+.logo{
+    float:left;
+	height: 84px;
+	width:88px;
+    border-radius: 50px;
+}
+.right,a{
+	margin: 0px;
+    padding: 4px;
+	color: cornsilk;
+	font-weight: bold;
+    text-align: right;
+	text-decoration:none;
+	text-transform: uppercase;
+	transform:translate( -1%, -10%);
+	cursor:pointer;
+}
+a:hover{
+	background-color: tomato;
+	border-radius: 5px;
+}

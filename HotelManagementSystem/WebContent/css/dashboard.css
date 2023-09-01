@@ -1,0 +1,41 @@
+@charset "ISO-8859-1";
+header{
+	margin: 0;
+    padding: 85px;
+    overflow: hidden;
+    color:white;
+    background-color: orange;
+}
+
+	
+.one{
+	margin: 15px;
+	padding: 33px;
+	height:250px;
+	width:25%;
+	background-color: rgb(250,128,114,0.8);
+	color: white;
+	float: left;
+	text-align: center;
+}
+.two{
+	margin: 15px;
+	padding: 33px;
+	padding-right:57px;
+	height:250px;
+	width:25%;
+	background-color: rgb(220,20,60,0.8);
+	color: white;
+	float: left;
+	text-align: center;
+}
+.three{
+	margin: 15px;
+	padding: 33px;
+	height:250px;
+	width:25%;
+	background-color: rgb(178,34,34,0.8);
+	color: white;
+	float: left;
+	text-align: center;
+}
